@@ -1,4 +1,3 @@
 # hello-world
-Just another repository
 
-WOOOOOO...Just a test.
+WOOOOO...Just another test.
